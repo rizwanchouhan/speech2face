@@ -206,20 +206,6 @@ speech2face/
 
 ---
 
-## 📝 Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@article{speech2face2025,
-  title={Speech2Face: Emotionally Expressive Facial Animation via EmotionBERT Embeddings},
-  author={Anonymous},
-  year={2025}
-}
-```
-
----
-
 ## 🙏 Acknowledgements
 
 We thank the authors of EmotionBERT and the dataset providers for supporting multimodal affective research.
