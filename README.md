@@ -34,7 +34,7 @@ The pipeline consists of four major components:
 3. **Multimodal Fusion** – align acoustic and emotional signals.  
 4. **Facial Motion Generator** – synthesize expressive, temporally consistent animations.
 
-<img src="https://github.com/speech2face/blob/main/resources/methodology.jpg" alt="Pipeline" style="max-width: 100%;">
+<img src="https://github.com/rizwanchouhan/speech2face/blob/main/resources/methodology.jpg" alt="Pipeline" style="max-width: 100%;">
 
 ---
 
