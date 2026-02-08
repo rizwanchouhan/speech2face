@@ -1,6 +1,6 @@
 # 🗣️ Speech2Face: Emotionally Expressive Facial Animation via EmotionBERT Embeddings
 
-<img src="https://github.com/yourrepo/resources/overview.png" alt="Speech2Face Overview" style="max-width: 100%;">
+<img src="https://i.imgur.com/waxVImv.png" alt="Emotion Chat Inference" style="max-width: 100%;">
 
 ## 🧠 Overview
 
